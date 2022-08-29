@@ -18,6 +18,9 @@ Use the following [link](https://github.com/OhMyGuus/BetterCrewLink/releases/tag
 
 5. Copy all contents from the extrated folder into the AmongUs folder ![image](https://user-images.githubusercontent.com/88290974/187284555-4c015c86-ca70-461c-bab0-c0f6f7bbf477.png)
 
-6. Start the game from your Launcher (either Epic Games or Steam)
+6. Start the game from your Launcher (either Epic Games or Steam), it might take a while when you first run it
+  
+ ![image](https://user-images.githubusercontent.com/88290974/187285467-cfaf61c5-26ed-4a3d-8506-73fb7e114751.png)
+
 
 Note: if you want to play unmoded Among Us rename the moded folder and set other folder to AmongUs and start game from launcher. 
